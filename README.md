@@ -1,8 +1,8 @@
 ### Hi there 👋
-> 🔭 I'm currently studying at FPT University\  
-> 🌱 I’m currently learning Information assurance\   
-> 🤔 I’m looking for someone who enjoys Social Engineering too\   
-> ⚡ Fun fact: New Github user :)\  
+> 🔭 I'm currently studying at FPT University  
+> 🌱 I’m currently learning Information assurance   
+> 🤔 I’m looking for someone who enjoys Social Engineering too   
+> ⚡ Fun fact: New Github user :)  
 ### Nice to meet you!
 
 <!--

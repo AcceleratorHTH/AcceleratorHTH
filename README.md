@@ -1,8 +1,7 @@
 ### Hi there 👋
 > 🔭 I'm currently studying at FPT University  
 > 🌱 I’m currently learning Information assurance   
-> 🤔 I’m looking for someone who enjoys Social Engineering too   
-> ⚡ Fun fact: New Github user :)  
+> 🤔 I’m looking for someone who enjoys Social Engineering and Software Defined Radio
 ### Nice to meet you!
 
 <!--

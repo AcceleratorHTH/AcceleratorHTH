@@ -3,6 +3,8 @@
 > 🌱 I’m currently learning Information assurance   
 > 🤔 I’m looking for someone who enjoys Social Engineering and Software Defined Radio
 ### Nice to meet you!
+![Social_dino-with-hat](https://user-images.githubusercontent.com/86862725/195338680-19ca1ddc-18a2-4de7-ac3e-1f80d0c7d8b6.gif)
+
 
 <!--
 **AcceleratorHTH/AcceleratorHTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

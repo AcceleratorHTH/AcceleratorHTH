@@ -2,7 +2,6 @@
 - 🔭 I’m currently studying at FPT university
 - 🌱 I’m currently learning Information Assurance
 - 💬 I'm looking for someone who interested in Software Defined Radio
-- ⚡ Fact: I'm very stupid
 <!-- ![Social_dino-with-hat](https://user-images.githubusercontent.com/86862725/195339216-41f7d5cb-3898-405d-bc64-ae60fb25bd53.gif) -->
 # 🌐Socials
 [![Facebook](https://img.shields.io/badge/Messenger-00B2FF?&logo=messenger&logoColor=white)](https://m.me/pqtrung2706/)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCuAhMcQrp_nQbnjJzJumvnw) 

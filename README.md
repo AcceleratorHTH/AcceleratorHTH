@@ -10,7 +10,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 
 # 📈Crypto
-![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=flat) ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=flat) ![Chainlink Badge](https://img.shields.io/badge/Chainlink-375BD2?logo=chainlink&logoColor=fff&style=flat) ![Binance Badge](https://img.shields.io/badge/Binance-F0B90B?logo=binance&logoColor=fff&style=flat)
+![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=flat) ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=flat) ![Chainlink Badge](https://img.shields.io/badge/Chainlink-375BD2?logo=chainlink&logoColor=fff&style=flat)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=AcceleratorHTH&theme=monokai&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AcceleratorHTH&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
